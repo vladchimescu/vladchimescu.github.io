@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
 title: Vlad's Blog
+description: This is my blog
+theme: jekyll-theme-cayman
 pygments: true
